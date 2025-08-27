@@ -9,7 +9,7 @@
 <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
 
-<h2>Hey there 👋 I'm Abdallah Emad</h2>
+<h2>Hey there 👋 I'm Abdallah</h2>
 <p>
 I'm a frontend developer who enjoys building clean and simple web apps 🚀.  
 Currently diving into the backend world 🌱 while keeping things fun and easy-going 😅.  
